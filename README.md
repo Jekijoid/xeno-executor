@@ -19,7 +19,7 @@ To install Xeno Executor, follow the instructions below:
 1. Download the latest version from the releases section.
 2. Run the installer and follow the steps in the setup wizard.
 3. After installation, open the program and start executing your scripts.
-4. 
+ 
  ![Group 1](https://github.com/user-attachments/assets/ba275ff6-7133-464b-9fed-e1669e55e8ee) ![Group 2](https://github.com/user-attachments/assets/07d74ddb-f7f1-474c-8595-d4d34f670b49) ![Group 3](https://github.com/user-attachments/assets/7297b23a-6c40-4245-a613-1af8f9059bde)
 
 
