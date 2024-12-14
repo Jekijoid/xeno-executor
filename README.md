@@ -15,7 +15,9 @@ Xeno Executor is an advanced and high-performance tool designed to run scripts a
  - Stability Under Load: Handles demanding tasks reliably, making it a great choice for both simple and resource-intensive operations.
 # **Installation Guide**
 To install Xeno Executor, follow the instructions below:
+
 **For Windows**
+
 1. Download the latest version from the releases section.
 2. Run the installer and follow the steps in the setup wizard.
 3. After installation, open the program and start executing your scripts.
