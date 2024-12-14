@@ -8,7 +8,7 @@ Xeno Executor is an advanced and high-performance tool designed to run scripts a
 
 # ![free-icon-downloading-5949339 (2)](https://github.com/user-attachments/assets/0ec075ff-6a03-4418-8fd9-d67dcea178b7) **DOWNLOAD**
 # **Key Features**
-## - Optimized for Speed: Xeno Executor is built to execute scripts quickly, reducing waiting times and increasing productivity.
+- Optimized for Speed: Xeno Executor is built to execute scripts quickly, reducing waiting times and increasing productivity.
  - Multi-Platform Support: Runs smoothly across all major operating systems, including Windows, Linux, and macOS.
  - Intuitive User Interface: The simple yet powerful interface makes it easy for users to start executing commands without hassle.
  - Wide Compatibility: Supports a variety of script formats and languages, ensuring flexibility for different needs.
